@@ -1,0 +1,8 @@
+E:\Projects\Tasks\task2\ConsoleApplication1\Mymath.Triangle_Geron\bin\Debug\Mymath.Triangle.dll
+E:\Projects\Tasks\task2\ConsoleApplication1\Mymath.Triangle_Geron\bin\Debug\Mymath.Triangle.pdb
+E:\Projects\Tasks\task2\ConsoleApplication1\Mymath.Triangle_Geron\obj\Debug\Mymath.Triangle.dll
+E:\Projects\Tasks\task2\ConsoleApplication1\Mymath.Triangle_Geron\obj\Debug\Mymath.Triangle.pdb
+E:\Projects\Tasks\task2\Task1\Mymath.Triangle_Geron\bin\Debug\Mymath.Triangle.dll
+E:\Projects\Tasks\task2\Task1\Mymath.Triangle_Geron\bin\Debug\Mymath.Triangle.pdb
+E:\Projects\Tasks\task2\Task1\Mymath.Triangle_Geron\obj\Debug\Mymath.Triangle.dll
+E:\Projects\Tasks\task2\Task1\Mymath.Triangle_Geron\obj\Debug\Mymath.Triangle.pdb

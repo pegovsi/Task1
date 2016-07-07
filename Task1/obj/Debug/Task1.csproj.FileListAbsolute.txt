@@ -1,0 +1,19 @@
+E:\Projects\Tasks\task2\ConsoleApplication1\ConsoleApplication1\bin\Debug\Task1.exe.config
+E:\Projects\Tasks\task2\ConsoleApplication1\ConsoleApplication1\bin\Debug\Task1.exe
+E:\Projects\Tasks\task2\ConsoleApplication1\ConsoleApplication1\bin\Debug\Task1.pdb
+E:\Projects\Tasks\task2\ConsoleApplication1\ConsoleApplication1\bin\Debug\Mymath.Triangle.dll
+E:\Projects\Tasks\task2\ConsoleApplication1\ConsoleApplication1\bin\Debug\Mymath.Triangle.pdb
+E:\Projects\Tasks\task2\ConsoleApplication1\ConsoleApplication1\obj\Debug\Task1.csprojResolveAssemblyReference.cache
+E:\Projects\Tasks\task2\ConsoleApplication1\ConsoleApplication1\obj\Debug\Task1.exe
+E:\Projects\Tasks\task2\ConsoleApplication1\ConsoleApplication1\obj\Debug\Task1.pdb
+E:\Projects\Tasks\task2\Task1\Task1\bin\Debug\Task1.exe.config
+E:\Projects\Tasks\task2\Task1\Task1\bin\Debug\Task1.exe
+E:\Projects\Tasks\task2\Task1\Task1\bin\Debug\Task1.pdb
+E:\Projects\Tasks\task2\Task1\Task1\bin\Debug\Mymath.Triangle.dll
+E:\Projects\Tasks\task2\Task1\Task1\bin\Debug\Mymath.Triangle.pdb
+E:\Projects\Tasks\task2\Task1\Task1\obj\Debug\Task1.csprojResolveAssemblyReference.cache
+E:\Projects\Tasks\task2\Task1\Task1\obj\Debug\Task1.exe
+E:\Projects\Tasks\task2\Task1\Task1\obj\Debug\Task1.pdb
+E:\Projects\Tasks\task2\Task1 - Copy\Task1\bin\Debug\Task1.exe.config
+E:\Projects\Tasks\task2\Task1 - Copy\Task1\obj\Debug\Task1.exe
+E:\Projects\Tasks\task2\Task1 - Copy\Task1\obj\Debug\Task1.pdb

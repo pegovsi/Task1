@@ -1,0 +1,9 @@
+E:\Projects\Tasks\task2\ConsoleApplication1\Mymath.Triangle_new\bin\Debug\Mymath.Triangle_Geron.dll
+E:\Projects\Tasks\task2\ConsoleApplication1\Mymath.Triangle_new\bin\Debug\Mymath.Triangle_Geron.pdb
+E:\Projects\Tasks\task2\ConsoleApplication1\Mymath.Triangle_new\obj\Debug\Mymath.Triangle_Geron.csprojResolveAssemblyReference.cache
+E:\Projects\Tasks\task2\ConsoleApplication1\Mymath.Triangle_new\obj\Debug\Mymath.Triangle_Geron.dll
+E:\Projects\Tasks\task2\ConsoleApplication1\Mymath.Triangle_new\obj\Debug\Mymath.Triangle_Geron.pdb
+E:\Projects\Tasks\task2\ConsoleApplication1\Mymath.Triangle_Geron\bin\Debug\Mymath.Triangle.dll
+E:\Projects\Tasks\task2\ConsoleApplication1\Mymath.Triangle_Geron\bin\Debug\Mymath.Triangle.pdb
+E:\Projects\Tasks\task2\ConsoleApplication1\Mymath.Triangle_Geron\obj\Debug\Mymath.Triangle.dll
+E:\Projects\Tasks\task2\ConsoleApplication1\Mymath.Triangle_Geron\obj\Debug\Mymath.Triangle.pdb
