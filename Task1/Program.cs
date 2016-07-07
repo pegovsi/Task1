@@ -22,17 +22,17 @@ namespace Task1
 
             do
             {
-                Console.WriteLine("Введите длину отркзка A=");                
+                Console.WriteLine("Введите длину отрезка A=");                
             } while (!double.TryParse(Console.ReadLine(), out a));
 
             do
             {
-                Console.WriteLine("Введите длину отркзка B=");
+                Console.WriteLine("Введите длину отрезка B=");
             } while (!double.TryParse(Console.ReadLine(), out b));
 
             do
             {
-                Console.WriteLine("Введите длину отркзка C=");
+                Console.WriteLine("Введите длину отрезка C=");
             } while (!double.TryParse(Console.ReadLine(), out c));
 
             if (a <= 0 || b <= 0 || c <= 0) 
@@ -50,7 +50,7 @@ namespace Task1
                 if (triangle.s == 0)
                     Console.WriteLine("Такого треугольника не существует!");
 
-                Console.WriteLine($"Площать треугольника = {Math.Round(triangle.s, 2)}");
+                Console.WriteLine($"Площадь треугольника = {Math.Round(triangle.s, 2)}");
 
                 Console.ReadKey();
             }
